@@ -19,7 +19,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
+global.alivemsg = `𝐈 𝐀𝐌 𝐎𝐍𝐋𝐈𝐍𝐄 𝐍𝐎𝐖
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94766358525'] //Owner number in aive msg
@@ -27,19 +27,19 @@ global.premium = ['+94766358525'] //Owner Number info
 global.ownernomer = '+94766358525' //Owner Number <<<
 
 global.ownername = '🅢🅐🅓🅐🅡🅤🅦🅐🅝' //Owner Name
-global.botname = ' RED DRAGON࿐' //Bot Name
+global.botname = 'RED DRAGON' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = 'RED DRAGON࿐' //Bot Pacage Name
+global.packname = 'RED DRAGON' //Bot Pacage Name
 global.author = '🅢🅐🅓🅐🅡🅤🅦🅐🅝' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '→♡←' // Menu emoji
 global.footer = '©_𝗌𝖺𝖽𝗎𝗐𝖺.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
